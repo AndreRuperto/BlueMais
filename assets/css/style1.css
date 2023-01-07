@@ -1,0 +1,9 @@
+.topo i {
+    font-style: normal;
+    color: #0DE5FF;
+  }
+  
+.topo i span {
+    padding-left: 5px;
+    color: #fff;
+}
