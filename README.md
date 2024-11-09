@@ -1,3 +1,2 @@
 # BlueMais
-Projeto da academia Blue +<br />
-Segue link para acessar na web: https://bluemaisacquastudio.com.br
+Projeto final do 1° semestre da faculdade - Academia Blue +<br />
